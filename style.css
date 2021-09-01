@@ -1,64 +1,175 @@
-body{
-    background-color: rgb(222, 249, 252)
+
+.body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(240, 242, 243);
+    font-size: 15px;
 }
 .intestazione{
     background-color: white;
     
-}
-.logo{
-    display: inline-block;
-   
     
 }
-.titolo{
-    float: right;
-    padding: 10px;
+img{
+    display: inline-block;
+    padding-left: 20px;
+    
+    
+    
+}
+h1{
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 20px;
+    
+}
+.h1{
+    
+    display: inline-block;
+    
+    
+    
     
 }
 
-.tott{
-   
+
+.main{
     width: 750px;
-    margin:auto;
+    margin: auto;
     
 }
 /*pulsanti*/
+.generale{
+    margin-top: 30px;
+
+}
 .pulsanti{
-  background-color: white;
-  padding: 10px;
-  margin-top: 25px;
-}
-.dpulsanti{
-    
-}
-button{
     background-color: white;
-    padding:3px 3px ;
-    border-radius: 5px;
+    padding: 10px;
+     
 }
 .sinistro{
-    background-color: #3eadd5c1;
+    color: white;
+    padding: 5px;
+    margin-left: 40px;
+    font-size: 11px;
+    border-radius: 5px;
+    background-color: rgb(59, 177, 250);
 }
 .destro{
-    color:gray ;
-    
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 7px;
+    border-color:214, 214, 210, 0.918 ;
+    color: rgba(214, 214, 210, 0.918);
+    font-size: 11px;
+    padding: 5px;
+    background-color: white);
+    font-size: 11px;
+    border-radius: 5px;
 }
 
-/*riquadro*/
-.riquadro{
+/*sezioni*/
+.contenitore{
     background-color: white;
-    margin-top: 1px;
     
 }
-.lista{
-list-style: none;
+
+.prima{
+    margin-top: 1px;   
 }
 
+p{
+    margin-left: 40px;
+}
 
+/*new*/
+.top{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.bot{
+    padding-top: 10px;
 
-
-
-
+}
+.cerchio{
+    font-size: 25px;
+    
+}
+.triangolo{
+    color: rgb(54, 206, 79);
+    border-color: rgb(54, 206, 79);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 7px;
+    width: 15px;
+    height:15px;
+    display: inline-block;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 50px;
+    margin-right: 5px;
+    
+}
+.editor{
+    background-color: rgb(29, 166, 252);
+    color: rgb(245, 248, 245);
+    border-radius: 7px;
+    padding: 4px ;
+    display: inline-block;
+    text-align: center;
+    font-size: 9px;
+    margin-right: 5px;
+}
+.qgoals{
+    background-color: rgba(141, 66, 240, 0.808);
+    color: rgb(245, 248, 245);
+    border-radius: 7px;
+    padding: 4px ;
+    display: inline-block;
+    text-align: center;
+    font-size: 9px;
+    margin-right: 5px;
+}
+.recruiting{
+    background-color: rgba(88, 173, 107, 0.822);
+    color: rgb(245, 248, 245);
+    border-radius: 7px;
+    padding: 4px ;
+    display: inline-block;
+    text-align: center;
+    font-size: 9px;
+    margin-right: 5px;
+}
+.mobile{
+    background-color: rgba(240, 158, 51, 0.822);
+    color: rgb(245, 248, 245);
+    border-radius: 7px;
+    padding: 4px ;
+    display: inline-block;
+    text-align: center;
+    font-size: 9px;
+    margin-right: 5px;
+}
+.website{
+    background-color: rgba(240, 51, 167, 0.822);
+    color: rgb(245, 248, 245);
+    border-radius: 7px;
+    padding: 4px ;
+    display: inline-block;
+    text-align: center;
+    font-size: 9px;
+    margin-right: 5px;
+}
+.sales{
+    background-color: rgba(172, 242, 91, 0.822);
+    color: rgb(245, 248, 245);
+    border-radius: 7px;
+    padding: 4px ;
+    display: inline-block;
+    text-align: center;
+    font-size: 9px;
+    margin-right: 5px;
+}
 
 
 
