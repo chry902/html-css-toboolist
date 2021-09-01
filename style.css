@@ -1,0 +1,25 @@
+.intestazione{
+    background-color: ;
+}
+.logo{
+    display: inline-block;
+    
+}
+.titolo{
+    float: right;
+    padding: 10px;
+   
+}
+
+
+
+
+
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
