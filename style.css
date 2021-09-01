@@ -1,15 +1,59 @@
+body{
+    background-color: rgb(222, 249, 252)
+}
 .intestazione{
-    background-color: ;
+    background-color: white;
+    
 }
 .logo{
     display: inline-block;
+   
     
 }
 .titolo{
     float: right;
     padding: 10px;
-   
+    
 }
+
+.tott{
+   
+    width: 750px;
+    margin:auto;
+    
+}
+/*pulsanti*/
+.pulsanti{
+  background-color: white;
+  padding: 10px;
+  margin-top: 25px;
+}
+.dpulsanti{
+    
+}
+button{
+    background-color: white;
+    padding:3px 3px ;
+    border-radius: 5px;
+}
+.sinistro{
+    background-color: #3eadd5c1;
+}
+.destro{
+    color:gray ;
+    
+}
+
+/*riquadro*/
+.riquadro{
+    background-color: white;
+    margin-top: 1px;
+    
+}
+.lista{
+list-style: none;
+}
+
 
 
 
