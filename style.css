@@ -7,14 +7,12 @@
 .intestazione{
     background-color: white;
     
-    
 }
 .logo{
     vertical-align: middle;
-    
-    
-    
+    padding-left: 1rem;
 }
+
 .texlogo{
     display: inline-block;
     vertical-align: middle;
@@ -36,7 +34,7 @@
     
 }
 /*pulsanti*/
-.generale{
+.gen-pulsanti{
     margin-top: 30px;
 
 }
@@ -91,6 +89,12 @@ p{
 }
 .cerchio{
     font-size: 25px;
+    
+}
+.freccia{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 5px;
     
 }
 .triangolo{
