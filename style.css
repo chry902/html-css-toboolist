@@ -188,7 +188,9 @@ p{
     margin-right: 5px;
 }
 
-
+.ultimo{
+    padding-bottom: 2rem;
+}
 
 *{
     box-sizing: border-box;
